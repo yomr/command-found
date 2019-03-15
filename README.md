@@ -12,7 +12,7 @@ Add this to your `.zshrc` file (Haven't tested on other shells)
       shuf -n 1 path/to/code_quotes
     }
     
-Make sure you have shuf/gshuf command. If you are on Mac OS X and you have coreutils installed, the shuf command will be available as `gshuf`. You could alias gsuf to shuf or replace shuf to gshuf in the above function.
+Make sure you have shuf/gshuf command. If you are on Mac OS X and you have coreutils installed, the shuf command will be available as `gshuf`. 
 
 Get the `code_quotes` file and  set the correct path in `.zshrc` file.
 
